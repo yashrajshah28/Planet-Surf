@@ -25,6 +25,10 @@ Admin
 user: admin
 pass: admin123
 
+User 
+user : yash@gmail.com
+pass : freak
+
 link http://localhost/Planet-Surf/
 
 
